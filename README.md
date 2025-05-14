@@ -9,6 +9,10 @@ a wide range of variables related to sleep and daily habits. It includes details
 as gender, age, occupation, sleep duration, quality of sleep, physical activity level,
 stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence
 or absence of sleep disorders. More information and the documentation of this assignment can be found in the Assignment1 folder.
+### Student Performance Factors Dataset
+[The Student Performance Factors Dataset](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors) dataset provides a comprehensive overview of various factors affecting stu-
+dent performance in exams. It includes information on study habits, attendance,
+parental involvement, and other aspects influencing academic success.
 ## Second assignment
 In this assignment, I explored and applied linear regression techniques to model and predict ride prices using a real-world dataset from [Uber and Lyft services in Boston, MA](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma).
 The dataset contains hundreds of thousands of ride entries with various contextual features.
