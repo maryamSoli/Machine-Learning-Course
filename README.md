@@ -4,8 +4,16 @@ This repository contains the machine learning course assignments and projects th
 This assignment consists of a Theoretical Questions and Practical Questions. In the Theoretical Questions the emphasis is more on the concepts of Hypothesis Tests.
 The purpose of Practical Questions is to practice basic data pre-processing skills and apply different statistical tests.  
 ### Sleep Health and Lifestyle Dataset
-The Sleep Health and Lifestyle Dataset comprises 400 rows and 13 columns, covering
+[The Sleep Health and Lifestyle Dataset](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) comprises 400 rows and 13 columns, covering
 a wide range of variables related to sleep and daily habits. It includes details such
 as gender, age, occupation, sleep duration, quality of sleep, physical activity level,
 stress levels, BMI category, blood pressure, heart rate, daily steps, and the presence
-or absence of sleep disorders. More information and the documentation of this assignment can be fount in the Assignment1 folder.
+or absence of sleep disorders. More information and the documentation of this assignment can be found in the Assignment1 folder.
+## Second assignment
+In this assignment, I explored and applied linear regression techniques to model and predict ride prices using a real-world dataset from [Uber and Lyft services in Boston, MA](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma).
+The dataset contains hundreds of thousands of ride entries with various contextual features.
+The goal is to build and evaluate regression models that estimate ride prices accurately and
+to investigate which types of linear regression approaches yield the best results.
+### Uber and Lyft services in Boston, MA
+This dataset contains a large number of ride records, each with a diverse set of attributes.
+Rather than relying on predefined features, I explored the dataset thoroughly to determine which inputs are most informative for predicting ride prices.
