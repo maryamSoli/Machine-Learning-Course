@@ -42,4 +42,6 @@ The data files are as follows:
 -  test.csv (336 rows, 34 columns): same features + ID, no target
 -  sample_submission.csv (336 rows, 2 columns): template for submission (ID, left_company)
 we use the train.csv to train the models.
+
+
 [The Link to this Kaggle competition](https://www.kaggle.com/competitions/ml4sbu)
