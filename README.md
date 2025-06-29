@@ -21,3 +21,15 @@ to investigate which types of linear regression approaches yield the best result
 ### Uber and Lyft services in Boston, MA
 This dataset contains a large number of ride records, each with a diverse set of attributes.
 Rather than relying on predefined features, I explored the dataset thoroughly to determine which inputs are most informative for predicting ride prices.
+## Third assignment
+In this assignment the goal is to develop a classification model to predict whether a student will be placed during campus
+recruitment, using academic, demographic, and institutional features. You are required
+to test multiple classification models, compare their performance, and identify the most
+effective approach.
+
+Assignment Purpose:  
+-  Getting familiar with basic concepts of classification.
+-  Gain hands-on experience with simpler classification algorithms, including LR, NB, and LDA.
+-  Explore various techniques to enhance model performance.
+-  Build intuition about model interpretability using different metrics.
+## Fourth assignment
