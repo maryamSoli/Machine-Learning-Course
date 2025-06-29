@@ -35,3 +35,11 @@ Assignment Purpose:
 
 [The Link to the Dataset](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement/data)
 ## Fourth assignment
+In this assignment, we will build and compare a variety of classification models to predict whether an
+employee will leave the company ('left_company'), using the provided HR dataset.
+The data files are as follows:
+-  train.csv (1341 rows, 35 columns): 33 feature columns + ID + target left_company
+-  test.csv (336 rows, 34 columns): same features + ID, no target
+-  sample_submission.csv (336 rows, 2 columns): template for submission (ID, left_company)
+we use the train.csv to train the models.
+[The Link to this Kaggle competition](https://www.kaggle.com/competitions/ml4sbu)
