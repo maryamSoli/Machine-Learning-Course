@@ -32,4 +32,6 @@ Assignment Purpose:
 -  Gain hands-on experience with simpler classification algorithms, including LR, NB, and LDA.
 -  Explore various techniques to enhance model performance.
 -  Build intuition about model interpretability using different metrics.
+
+[The Link to the Dataset](https://www.kaggle.com/datasets/benroshan/factors-affecting-campus-placement/data)
 ## Fourth assignment
