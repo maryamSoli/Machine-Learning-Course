@@ -45,3 +45,23 @@ we use the train.csv to train the models.
 
 
 [The Link to this Kaggle competition](https://www.kaggle.com/competitions/ml4sbu)
+## Fifth assignment
+The objective of this assignment is to apply various unsupervised clustering algorithms
+to the ”Big Five Personality Test” dataset to identify distinct personality profiles among
+individuals. We will evaluate the performance of these clustering models using appropriate metrics and visualize the resulting clusters to gain insights into human personality
+traits.
+[The Link to the Kaggle dataset](https://www.kaggle.com/datasets/tunguz/big-five-personality-test)
+
+## Final Project
+This capstone project integrates the major topics covered in the course—exploratory data analysis (EDA), feature engineering, modeling, evaluation, and lightweight MLOps for deployment—
+through the design of a movie recommender system using The Movies Dataset. Interpretability
+vs. Complexity. Students are encouraged to experiment with both simple, highly interpretable
+models and more complex, higher-capacity alternatives, explicitly reflecting on the trade-offs (e.g.,
+transparency, latency, maintenance cost) in their report.
+By the end of the project we will be able to:
+• Clean and join multi-file datasets, quantifying information loss at each step.
+• Build strong baselines and implement both content-based (CB) and collaborative-filtering
+(CF) approaches.
+• Fuse CB and CF into a hybrid model and critically evaluate it.
+• Publish an interactive demo on Hugging Face Spaces.
+[The Link to the Kaggle dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
