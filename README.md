@@ -50,6 +50,8 @@ The objective of this assignment is to apply various unsupervised clustering alg
 to the ”Big Five Personality Test” dataset to identify distinct personality profiles among
 individuals. We will evaluate the performance of these clustering models using appropriate metrics and visualize the resulting clusters to gain insights into human personality
 traits.
+
+
 [The Link to the Kaggle dataset](https://www.kaggle.com/datasets/tunguz/big-five-personality-test)
 
 ## Final Project
@@ -59,9 +61,12 @@ vs. Complexity. Students are encouraged to experiment with both simple, highly i
 models and more complex, higher-capacity alternatives, explicitly reflecting on the trade-offs (e.g.,
 transparency, latency, maintenance cost) in their report.
 By the end of the project we will be able to:
-• Clean and join multi-file datasets, quantifying information loss at each step.
-• Build strong baselines and implement both content-based (CB) and collaborative-filtering
-(CF) approaches.
-• Fuse CB and CF into a hybrid model and critically evaluate it.
-• Publish an interactive demo on Hugging Face Spaces.
+
+
+-  Clean and join multi-file datasets, quantifying information loss at each step.
+-  Build strong baselines and implement both content-based (CB) and collaborative-filtering (CF) approaches.
+-  Fuse CB and CF into a hybrid model and critically evaluate it.
+-  Publish an interactive demo on Hugging Face Spaces.
+
+
 [The Link to the Kaggle dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=movies_metadata.csv)
